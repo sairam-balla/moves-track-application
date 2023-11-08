@@ -1,0 +1,59 @@
+.move-cards-container {
+  padding: 40px;
+}
+
+.move-card-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow-icon {
+  font-size: 40px;
+  color: red;
+  border-top: 50%;
+  box-shadow: black;
+  margin: 20px;
+}
+
+.center-div {
+  display: flex;
+  align-items: center;
+}
+
+.place-container {
+  width: 500px;
+}
+.row-container {
+  display: flex;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.icons {
+  font-size: 40px;
+  color: red;
+}
+
+.details-button {
+  border: 2px solid red;
+  border-radius: 6px;
+  color: red;
+}
+
+.quotes-button {
+  background-color: red;
+  border-radius: 6px;
+  border: none;
+  color: white;
+}
+
+.details-button,
+.quotes-button {
+  width: 200px;
+}
